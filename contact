@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Contact - Paphos MC</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<img src="assets/logo.png" class="logo" alt="PMC Logo" />
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="rides.html">Rides & Events</a>
+<a href="members.html">Members</a>
+<a href="gallery.html">Gallery</a>
+<a href="contact.html" class="active">Contact</a>
+</nav>
+</header>
+
+<section class="page">
+<h1>Contact Us</h1>
+<p>Email: info@paphosmc.org</p>
+<p>Facebook: facebook.com/paphosmc</p>
+</section>
+
+<footer>
+© 2025 Paphos Motorcycle Club
+</footer>
+</body>
+</html>
